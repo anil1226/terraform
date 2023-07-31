@@ -1,8 +1,6 @@
-# Azure - HashiCorp Certified: Terraform Associate - 70 Demos
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-highest-rated.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
+# Azure - HashiCorp Certified Associate
 
-
-## Course Modules
+## Repo Modules
 01. Infrastructure as Code (IaC)
 02. Install Tools on MacOs, LinuxOS and WindowsOS
 03. Command Basics
@@ -93,66 +91,8 @@
 15. sum() function
 
 
-## What will students learn in your course?
-- You will learn to master Terraform in a practical perspective with 70 demo's
-- You will learn each and every concept of Terraform (basic to advanced)
-- You will learn to write and understand Terraform Resource Behavior in combination with all the Meta-Arguments with 15 Demos
-- You will learn each and every way (14 types) you can implement the Terraform Input Variables with 14 Demos
-- You will learn Output Values concept in combination with Terraform Splat Expressions and For Loops with two Meta-Arguments Count and for_each with 3 Demos
-- You will learn in detail about Terrafrom State, Remote Backends, Terraform Cloud Backends and many Terraform State commands with 5 Demos
-- You will learn and implement Terraform CLI based workspaces
-- You will learn and implement all Terraform Provisioners with 4 Demos including Null Resources
-- You will learn and implement Terraform Modules with 6 Demos (Build Local Module, Public to Public and Private Terraform Registries)
-- You will learn and implement two important usecases on Terraform Cloud (VCS-Driven and CLI-Driven Workflows)
-- You will learn about sentinel policies and implement 3 types of sentinel policies
-- You will learn and implement Terraform Dynamic Expressions, Dynamic Blocks and 15 Terraform Functions
-- You will also learn and implement Terraform Datasources, Remote State Datasources and  Terraform External Providers and Datasources.
 
 
-## Are there any course requirements or prerequisites?
-- You must have an Azure Cloud account to follow with me for hands-on activities.
-- You don't need to have any basic knowledge of Terraform. Course will get started from very very basics of Terraform and take you to very advanced levels
-
-
-
-## Who are your target students?
-- Infrastructure Architects or Sysadmins or Developers who are planning to master Terraform
-- Any beginner who is interested in learning IaC Infrastructure as Code current trending tool Terraform 
-- Anyone who want to learn Terraform from a practical perspective 
-
-## Github Repositories used for this course
-- [HashiCorp Certified: Terraform Associate on Azure](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure)
-- [Terraform Cloud Demo](https://github.com/stacksimplify/terraform-cloud-azure-demo1)
-- [Terraform Module Published to Public Registry](https://github.com/stacksimplify/terraform-azurerm-staticwebsitepublic)
-- [Terraform Module Published to Terraform Cloud Private Registry](https://github.com/stacksimplify/terraform-azurerm-staticwebsiteprivate)
-- [Terraform Sentinel Policies](https://github.com/stacksimplify/terraform-sentinel-policies-azure)
-- [Course PPT Presentation](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-azure/tree/master/course-presentation)
-- **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
-
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other Courses
-- [Udemy Enroll](https://stacksimplify.com/azure-aks/courses/stacksimplify-best-selling-courses-on-udemy/)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
-## AWS EKS - Elastic Kubernetes Service - Masterclass
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
-## Azure Kubernetes Service with Azure DevOps and Terraform 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-
-## HashiCorp Certified: Terraform Associate - 50 Practical Demos
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
-
-## Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-best-seller.png "Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos")](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
 
 ## Additional References
 - [Certification Curriculum](https://www.hashicorp.com/certification/terraform-associate)
