@@ -70,7 +70,7 @@ variable "db_auto_grow_enabled" {
 variable "tdpolicy" {
   description = "Azure MySQL DB Threat Detection Policy"
   type = object({
-    enabled = bool,
+    enabled = bool
     retention_days = number
     email_account_admins = bool
     email_addresses = list(string)
