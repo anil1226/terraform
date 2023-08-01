@@ -23,14 +23,14 @@ output "virtual_network_name" {
 # Output - For Loop One Input and List Output with VNET Name 
 output "virtual_network_name_list_one_input" {
   description = "Virtual Network - For Loop One Input and List Output with VNET Name "
-  value = [for vnet in azurerm_virtual_network.myvnet: vnet.name ]  
+  value = [for vnet1 in azurerm_virtual_network.myvnet: vnet1.name ]  
 }
 
 # Output - For Loop Two Inputs, List Output which is Iterator i (var.environment)
 output "virtual_network_name_list_two_inputs" {
   description = "Virtual Network - For Loop Two Inputs, List Output which is Iterator i (var.environment)"  
   #value = [for i, vnet in azurerm_virtual_network.myvnet: i ]
-  value = [for env, vnet in azurerm_virtual_network.myvnet: env ]
+  value = [for j, vnet in azurerm_virtual_network.myvnet: j ]
 }
 
 # Output - For Loop One Input and Map Output with VNET ID and VNET Name
