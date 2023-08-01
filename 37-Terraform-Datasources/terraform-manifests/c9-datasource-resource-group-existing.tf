@@ -1,8 +1,8 @@
 # Datasources
 # https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/resource_group
-/*
+
 data "azurerm_resource_group" "rgds1" {
-  name = "dsdemo"
+  name = "tf-demo"
 }
 
 ## TEST DATASOURCES using OUTPUTS
@@ -20,6 +20,6 @@ output "ds_rg_location1" {
 output "ds_rg_id1" {
   value = data.azurerm_resource_group.rgds1.id
 }
-*/
+
 
 
