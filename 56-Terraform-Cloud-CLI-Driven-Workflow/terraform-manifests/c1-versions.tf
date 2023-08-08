@@ -8,13 +8,11 @@ terraform {
     }
   }
   # Update Terraform Cloud Backend Block Information below
-  backend "remote" {
-    organization = "hcta-azure-demo1"
+  cloud {
+    organization = "hcta-azure-demo26"
     workspaces {
-      name = "cli-driven-azure-demo"
+      name = "az-cli-demo"
     }
-    #hostname = "value"  # defaults to app.terraform.io but for Enterprise customers it is going to be where you hosted TF Cloud related binary
-    #token = "value" # Hard Code TF Cloud Token - Not recommended use from TF CLI only 
   }
 }
 
