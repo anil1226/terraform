@@ -12,10 +12,10 @@ terraform {
     }   
   }
   # Terraform Backend pointed to TF Cloud
-  backend "remote" {
-    organization = "hcta-azure-demo1"
+  cloud {
+    organization = "hcta-azure-demo26"
     workspaces {
-      name = "sentinel-azure-demo1"
+      name = "sentinel-azure-demo26"
     }
   }
 }
@@ -30,7 +30,7 @@ resource "random_string" "myrandom" {
   length = 6
   upper = false 
   special = false
-  number = false   
+  numeric = false   
 }
 
 
